@@ -1,4 +1,11 @@
-# Nure Kowser â€” DevOps & Cloud Infrastructure Engineer
+<div align="center">
+
+### ?? **[DevOps & Cloud](README.md)** ? ?? **[Software Engineering](SOFTWARE_DEV.md)** ? ??? **[System Design](SYSTEM_DESIGN.md)** ? ?? **[DSA & Algorithms](DSA.md)**
+
+</div>
+
+---
+# Nure Kowser — Multi-Disciplinary Engineer
 
 Passionate DevOps, Cloud Architect, and Systems Security Engineer specializing in production infrastructure automation, container orchestration, edge security, self-hosted deployment platforms, and zero-trust disaster recovery.
 
@@ -87,3 +94,4 @@ graph TD
 ## Contact & Connect
 - **GitHub:** [nurekowser01](https://github.com/nurekowser01)
 - **Profile Hub Repository:** [nurekowser01/nurekowser01](https://github.com/nurekowser01/nurekowser01)
+
