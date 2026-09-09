@@ -28,12 +28,12 @@ Building scalable, maintainable, and highly-performant applications. While my in
 - Implemented robust state management and a highly optimized rendering pipeline on the frontend.
 - Backend API utilizes connection pooling and Redis caching to achieve sub-50ms response times.
 
-### 2. [Real-Time Collaboration Workspace](#)
+### 2. [Distributed Identity & Authentication Provider](https://github.com/nurekowser01/software-auth-service)
 **Stack:** Vue.js, Go (Golang), WebSockets, MongoDB
 - Developed a low-latency collaborative text editor utilizing Operational Transformation (OT) algorithms.
 - Designed a scalable WebSocket architecture capable of broadcasting events to multiple client nodes simultaneously.
 
-### 3. [Open-Source CLI Utility](#)
+### 3. [Idempotent Payment Gateway](https://github.com/nurekowser01/software-payment-gateway)
 **Stack:** Python / Rust
 - Authored a high-performance command-line utility for parsing and transforming massive JSON datasets.
 - Utilized multi-threading and memory-safe paradigms to process data 10x faster than legacy scripts.
