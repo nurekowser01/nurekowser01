@@ -1,0 +1,239 @@
+portfolio:
+  owner: nurekowser01
+  updated_at: "2026-09-09"
+  total_repositories: 26
+
+repositories:
+  - name: nurekowser01
+    phase: 0
+    category: navigation-hub
+    status: completed
+    execution_level: level-1
+    profile_link: true
+    security_audit: passed
+    documentation: passed
+
+  - name: devops-docker
+    phase: 1
+    category: infrastructure
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-docker-compose
+    phase: 2
+    category: infrastructure
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-dokploy
+    phase: 3
+    category: deployment-platform
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-coolify
+    phase: 4
+    category: deployment-platform
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-traefik
+    phase: 5
+    category: infrastructure
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-ssl-tls
+    phase: 6
+    category: infrastructure
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-github-actions
+    phase: 7
+    category: cicd
+    status: pending
+    execution_level: level-2
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-container-registry
+    phase: 8
+    category: cicd
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-deployment-rollback
+    phase: 9
+    category: cicd
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-zero-downtime-deployment
+    phase: 10
+    category: cicd
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-aws-s3
+    phase: 11
+    category: cloud-storage
+    status: pending
+    execution_level: level-2
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-cloudflare-r2
+    phase: 12
+    category: cloud-storage
+    status: pending
+    execution_level: level-2
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-backblaze-b2
+    phase: 13
+    category: cloud-storage
+    status: pending
+    execution_level: level-2
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-object-storage-backup
+    phase: 14
+    category: cloud-storage
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-cloudflare
+    phase: 15
+    category: networking
+    status: pending
+    execution_level: level-2
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-cloudflare-proxy
+    phase: 16
+    category: networking
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-cloudflare-tunnel
+    phase: 17
+    category: networking
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-ssh-hardening
+    phase: 18
+    category: security
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-linux-security
+    phase: 19
+    category: security
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-firewall
+    phase: 20
+    category: security
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-secrets-management
+    phase: 21
+    category: security
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-server-hardening
+    phase: 22
+    category: security
+    status: pending
+    execution_level: level-2
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-backup-recovery
+    phase: 23
+    category: reliability
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-monitoring
+    phase: 24
+    category: reliability
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
+
+  - name: devops-disaster-recovery
+    phase: 25
+    category: reliability
+    status: pending
+    execution_level: level-1
+    profile_link: false
+    security_audit: pending
+    documentation: pending
