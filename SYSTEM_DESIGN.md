@@ -22,19 +22,19 @@ Designing distributed systems that are highly available, fault-tolerant, and hor
 
 *(Note: These link to dedicated repositories where the architecture is mapped out via Mermaid diagrams, ADRs, and load testing scripts.)*
 
-### 1. [Design: Global Rate Limiting Service](#)
+### 1. [Design: Global Rate Limiting Service](https://github.com/nurekowser01/system-design-rate-limiter)
 **Focus:** High Throughput, Low Latency, Distributed Synchronization
 - Designed a distributed API rate limiter using Redis (Token Bucket Algorithm).
 - Addressed race conditions in a multi-node environment using Lua scripting.
 - Handled geographic latency by deploying edge-proxies (Cloudflare Workers) synced with regional Redis clusters.
 
-### 2. [Design: Video Streaming Platform (Netflix Clone)](#)
+### 2. [Design: Video Streaming Platform (Netflix Clone)](https://github.com/nurekowser01/system-design-video-streaming)
 **Focus:** Content Delivery, Blob Storage, Transcoding Pipelines
 - Mapped out the upload, transcoding, and content delivery network (CDN) flow.
 - Designed the database schema to handle massive metadata search queries utilizing Elasticsearch.
 - Documented the event-driven transcoding pipeline using AWS SQS and Lambda.
 
-### 3. [Design: Highly Available Chat Application](#)
+### 3. [Design: Highly Available Chat Application](https://github.com/nurekowser01/system-design-chat-platform)
 **Focus:** WebSockets, Message Queues, Data Partitioning
 - Architected a real-time messaging system utilizing WebSockets and Redis Pub/Sub.
 - Addressed database sharding strategies (Consistent Hashing) to store billions of chat messages across PostgreSQL nodes.
