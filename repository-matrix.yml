@@ -16,11 +16,11 @@ repositories:
   - name: devops-docker
     phase: 1
     category: infrastructure
-    status: pending
+    status: completed
     execution_level: level-1
-    profile_link: false
-    security_audit: pending
-    documentation: pending
+    profile_link: true
+    security_audit: passed
+    documentation: passed
 
   - name: devops-docker-compose
     phase: 2
