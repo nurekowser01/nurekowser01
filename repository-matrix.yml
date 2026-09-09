@@ -34,11 +34,11 @@ repositories:
   - name: devops-dokploy
     phase: 3
     category: deployment-platform
-    status: pending
+    status: completed
     execution_level: level-1
-    profile_link: false
-    security_audit: pending
-    documentation: pending
+    profile_link: true
+    security_audit: passed
+    documentation: passed
 
   - name: devops-coolify
     phase: 4
