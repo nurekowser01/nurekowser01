@@ -22,7 +22,7 @@ Building scalable, maintainable, and highly-performant applications. While my in
 
 *(Note: These are placeholders for your actual software development repositories)*
 
-### 1. [Full-Stack E-Commerce Platform](#) 
+### 1. [Enterprise Backend Service (Spring Boot)](https://github.com/nurekowser01/enterprise-backend-springboot) 
 **Stack:** React, Node.js, PostgreSQL, Redis, Stripe API
 - Built a microservices-based e-commerce platform handling thousands of concurrent users.
 - Implemented robust state management and a highly optimized rendering pipeline on the frontend.
