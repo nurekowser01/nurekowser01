@@ -6,12 +6,20 @@
 
 ---
 
+> ?? **Flagship Architecture:** View the **[Production Multi-Tenant SaaS Platform](https://github.com/nurekowser01/production-multi-tenant-platform)** combining DevOps, System Design, and Software Engineering into a single coherent system.
+
 # Nure Kowser — Multi-Disciplinary Engineer
 
 Passionate DevOps, Cloud Architect, and Systems Security Engineer specializing in production infrastructure automation, container orchestration, edge security, self-hosted deployment platforms, and zero-trust disaster recovery.
 
 ---
 
+> ?? **Flagship Architecture:** View the **[Production Multi-Tenant SaaS Platform](https://github.com/nurekowser01/production-multi-tenant-platform)** combining DevOps, System Design, and Software Engineering into a single coherent system.
+
+## Technical Core & Capabilities
+
+- **Containerization & Orchestration:** Docker, Docker Compose, Multi-stage Builds, Distroless Images, Container Security, Resource Scoping.
+- **PaaS & Self-Hosted Infrastructure:** Dokploy, Coolify, Traefik Dynamic Reverse Proxy, `acme.json` Certificate Security, Volume Backups.
 ## Technical Core & Capabilities
 
 - **Containerization & Orchestration:** Docker, Docker Compose, Multi-stage Builds, Distroless Images, Container Security, Resource Scoping.
